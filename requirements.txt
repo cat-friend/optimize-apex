@@ -18,7 +18,7 @@ flask-wtf==0.15.1
 flask==2.0.1
 greenlet==1.1.0
 gunicorn==20.1.0
-idna==3.3
+idna==3.7
 itsdangerous==2.0.1
 jinja2==3.0.1
 mako==1.1.4

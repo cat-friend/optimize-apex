@@ -29,5 +29,5 @@ python-editor==1.0.4
 six==1.15.0
 sqlalchemy==2.0.23
 typing-extensions==4.8.0; python_version >= '3.8'
-werkzeug==2.0.1
+werkzeug==3.0.3
 wtforms[email]==3.0.1

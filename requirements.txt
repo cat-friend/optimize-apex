@@ -31,3 +31,4 @@ sqlalchemy==2.0.23
 typing-extensions==4.8.0; python_version >= '3.8'
 werkzeug==2.0.1
 wtforms[email]==3.0.1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability

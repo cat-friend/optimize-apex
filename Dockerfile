@@ -10,7 +10,7 @@ ENV REACT_APP_BASE_URL=http://ultimate-accelerator.herokuapp.com
 RUN npm install
 RUN npm run build
 
-FROM python:3.9
+FROM python:3.12.0a3-slim-bullseye
 
 # Setup Flask environment
 ENV FLASK_APP=app
